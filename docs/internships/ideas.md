@@ -129,7 +129,7 @@ Here are the features we'd like to implement in the coming months.
 1. **Repos to update:** Talawa, Talawa-API, Talawa-Admin
 1. **Skills Required:** Code stacks related to repos above. See introduction section.
 1. **Depends on Project:** None
-1. **Project Size:** 175 hours
+1. **Project Size:** 350 hours
 1. **Possible Mentors:** Kevonia Tomlinson (GitHub: Kevoniat)
 1. **Difficulty:** Medium
 1. **Impact Definition:** Core development, Risky/Exploratory
@@ -186,7 +186,7 @@ Here are the features we'd like to implement in the coming months.
 1. **Repos to update:** Talawa, Talawa-API, Talawa-Admin
 1. **Skills Required:** Code stacks related to repos above. See introduction section.
 1. **Depends on Project:** None
-1. **Project Size:** 175 hours
+1. **Project Size:** 350 hours
 1. **Possible Mentors:** Md Noman Khan (GitHub: noman2002)
 1. **Difficulty:** Medium
 1. **Impact Definition:** Risky/Exploratory
